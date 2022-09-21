@@ -1,0 +1,10 @@
+.header{
+    font-size: 30px;
+    color: rgb(26, 202, 202);
+    font-weight: bold;
+    padding: 4px;
+    border-bottom: 3px solid rgb(26, 202, 202);
+}
+.container{
+    margin: 20px;
+}
